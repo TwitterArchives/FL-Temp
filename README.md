@@ -15,6 +15,13 @@ Redblock is free browser extension that can block lists or followers of an accou
 **Notice:** blocking too many accts in a 15 min interval may cause you to be automatically logged out.
 https://github.com/gaeulbyul/RedBlock/blob/main/README.en.md  
     
+### App: BlockDezNat
+Free, has a bunch of pre-listed DezNat account on a block list.
+First sign up on the main site:  
+https://blockdnat.org/  
+Then subscribe to this list:  
+https://blockdnat.org/show-blocks/YZQnYLTxNnhXjlR4fTORiVck3aLPwPfw-PpDvohb  
+    
 ## Alternatives
 Additional alternatives that help block multiple users  
 - Blockasaurus - https://blockasaurus.glitch.me/ (works for small amounts of blocks)  

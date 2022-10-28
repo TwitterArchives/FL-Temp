@@ -1,4 +1,4 @@
-## FL-Temp
+## Follower lists temp repo
 
 Save all lists by clicking the "Code" dropdown and selecting "Download ZIP"
 

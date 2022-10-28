@@ -1,6 +1,6 @@
 ## Follower lists temp repo
 
-Save all lists by clicking the "Code" dropdown and selecting "Download ZIP"
+### Save all lists by clicking the "Code" dropdown and selecting "Download ZIP"
 
  - Extract handles/IDs: paste into a spreadsheet and use the Data > Split text to columns option.  
  - Can also paste all of them into a spreadsheet and run Data > Data cleanup > Remove duplicates to prevent duplicate blocking submissions.  

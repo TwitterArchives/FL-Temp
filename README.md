@@ -8,7 +8,7 @@
 
 ### Extension: RedBlock
 Redblock is free browser extension that can block lists or followers of an account but it can only block 500 at a time (effective for daily use, inefficient for huge block lists); I have not tested the other API functions mentioned in link below.  
-**Notice:** blocking too many accts in a 15 min interval may cause you to be automatically logged out.
+**Notice: blocking too many accts in a __15 min interval__ may cause you to be automatically logged out.**  
 https://github.com/gaeulbyul/RedBlock/blob/main/README.en.md  
     
 ### App: BlockDezNat

@@ -1,3 +1,3 @@
-# FL-Temp
+## FL-Temp
 
-Save all lists by clicking the "Code" dropdown and selecting
+Save all lists by clicking the "Code" dropdown and selecting "Download ZIP"

@@ -20,7 +20,7 @@ Additional alternatives that help block multiple users
 - Blockasaurus - https://blockasaurus.glitch.me/ (works for small amounts of blocks)  
 - Twitter-Block-With-Love - https://github.com/E011011101001/Twitter-Block-With-Love (not tested)  
 - Likers Blocker - https://dmstern.github.io/likers-blocker/ (not tested)  
-- Poop blocker - https://poop-blocker.glitch.me/(not tested)  
+- Poop blocker - https://poop-blocker.glitch.me/ (not tested)  
   
 - Secataur - https://secateur.app/ (Tested, not working 27-Oct-2022)  
 - MegaBlock - https://megablock.xyz/ (Tested, not working 27-Oct-2022)  

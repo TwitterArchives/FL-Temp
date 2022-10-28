@@ -4,12 +4,8 @@
 
  - Extract handles/IDs: paste into a spreadsheet and use the Data > Split text to columns option.  
  - Can also paste all of them into a spreadsheet and run Data > Data cleanup > Remove duplicates to prevent duplicate blocking submissions.  
-  
-  
-### App: Block Party 
-Block Party is good, schedule batches of 5k at a time, you can schedule multiple batches at a time and auto blocks them for you **BUT requires a cc for free trial, costs after the trial.**  Also requires MFA via number or authentication app.
-https://www.blockpartyapp.com/  
-  
+ 
+
 ### Extension: RedBlock
 Redblock is free browser extension that can block lists or followers of an account but it can only block 500 at a time (effective for daily use, inefficient for huge block lists); I have not tested the other API functions mentioned in link below.  
 **Notice:** blocking too many accts in a 15 min interval may cause you to be automatically logged out.
@@ -21,6 +17,10 @@ First sign up on the main site:
 https://blockdnat.org/  
 Then subscribe to this list:  
 https://blockdnat.org/show-blocks/YZQnYLTxNnhXjlR4fTORiVck3aLPwPfw-PpDvohb  
+  
+### App: Block Party 
+Block Party is good, schedule batches of 5k at a time, you can schedule multiple batches at a time and auto blocks them for you **BUT requires a cc for free trial, costs after the trial.**  Also requires MFA via number or authentication app.
+https://www.blockpartyapp.com/  
     
 ## Alternatives
 Additional alternatives that help block multiple users  
